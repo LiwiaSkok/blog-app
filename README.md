@@ -35,7 +35,7 @@ Aplikacja dostępna pod adresem:
   <img src="./screenshots/addpost.png" alt="addpost" />
 </p>
 
-
+### Formularz edytowania posta
 <p align="center">
   <img src="./screenshots/edit-post.png" alt="edit-post" />
 </p>
